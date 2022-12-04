@@ -48,9 +48,10 @@ Monday
 ![Architecture Diagram](https://github.com/gopinathsjsu/team-project-pentium-predators/blob/main/client/src/assets/Architecture_Diagram.png)
 
 ## Use case Diagram
-![Architecture Diagram](https://github.com/gopinathsjsu/team-project-pentium-predators/blob/main/client/src/assets/Use-Case_Diagram.jfif)
+![Use case Diagram](https://github.com/gopinathsjsu/team-project-pentium-predators/blob/main/client/src/assets/Use-Case_Diagram.jfif)
 
-## Class Diagram
+## Component Diagram
+![Component Diagram](https://github.com/gopinathsjsu/team-project-pentium-predators/blob/main/client/src/assets/Component_Diagram.png)
 
 ## Design decisions
 
