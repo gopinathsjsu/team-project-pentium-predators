@@ -56,8 +56,9 @@ Monday
 ## Deployment Diagram
 ![Deployment Diagram](https://github.com/gopinathsjsu/team-project-pentium-predators/blob/main/client/src/assets/Deployment%20Diagram.png)
 
+## [WireFrames](https://github.com/gopinathsjsu/team-project-pentium-predators/tree/main/client/src/assets/wireframes)
 
-###### Database
+## Database
 
 Reasons to choose a NoSQL database
 
@@ -70,7 +71,7 @@ Reasons to choose a NoSQL database
 - It is a document type database where we store data in JSON format which is easy to use and supported by many frameworks and languages.
 - Since we are using Javascript-based framework for backend and mongodb also has javascript at its core, it becomes easier for backend application to interact with the database.
 
-###### Backend
+## Backend
 
 Reasons to choose NodeJS and Express JS
 
@@ -81,7 +82,7 @@ Reasons to choose NodeJS and Express JS
 - Express JS is one of the best Javascript frameworks for creating RESTful APIs.
 - It is easier to deploy and develop nodejs application in AWS.
 
-###### Frontend
+## Frontend
 
 Reasons to choose React JS
 
@@ -91,7 +92,7 @@ Reasons to choose React JS
 - React Js's core feature which are server-side rendering and virtual DOM increase the speed of complex applications.
 - ReactJS library supports a wide range of codebases and can be mixed into any existing infrastructure without shutting down the system.
 
-###### Deployment
+## Deployment
 
 Reasons to choose AWS
 
