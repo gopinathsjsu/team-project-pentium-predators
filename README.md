@@ -20,11 +20,11 @@ Team Members:
 
 Monday
 
-## Sprint Sheet
+## [Sprint Sheet](https://docs.google.com/spreadsheets/d/1S7y5mOIVPWUpca2kdMLfR_vjscz66GQDV9vDMBHnYm8/edit?usp=sharing)
 
 ## Project Board
 
-## Project Journal
+## [Project Journal](https://github.com/gopinathsjsu/team-project-pentium-predators/tree/main/Journals)
 
 ## XP values
 
