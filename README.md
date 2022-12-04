@@ -14,7 +14,7 @@ Team Members:
 - Frontend - React.js
 - Backend - Node.js
 - Database - Mongo DB
-- Deployment - AWS EC2 with loadbalancing
+- Deployment - AWS
 
 ## Scrum Meeting (Bi-Weekly)
 
@@ -22,7 +22,7 @@ Monday
 
 ## [Sprint Sheet](https://docs.google.com/spreadsheets/d/1S7y5mOIVPWUpca2kdMLfR_vjscz66GQDV9vDMBHnYm8/edit?usp=sharing)
 
-## Project Board
+## [Project Board](https://github.com/orgs/gopinathsjsu/projects/52/views/1)
 
 ## [Project Journal](https://github.com/gopinathsjsu/team-project-pentium-predators/tree/main/Journals)
 
