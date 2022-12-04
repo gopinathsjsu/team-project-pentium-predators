@@ -53,7 +53,9 @@ Monday
 ## Component Diagram
 ![Component Diagram](https://github.com/gopinathsjsu/team-project-pentium-predators/blob/main/client/src/assets/Component_Diagram.png)
 
-## Design decisions
+## Deployment Diagram
+![Deployment Diagram](https://github.com/gopinathsjsu/team-project-pentium-predators/blob/main/client/src/assets/Deployment%20Diagram.png)
+
 
 ###### Database
 
