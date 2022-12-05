@@ -26,6 +26,8 @@ Monday
 
 ## [Project Journal](https://github.com/gopinathsjsu/team-project-pentium-predators/tree/main/Journals)
 
+## [Project Contributions](https://github.com/gopinathsjsu/team-project-pentium-predators/blob/main/Journals/Contributions)
+
 ## XP values
 
 ###### Communication
